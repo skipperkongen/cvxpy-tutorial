@@ -2,13 +2,17 @@
 
 ## Linear programming
 
-See [lesson1.py](src/cvxpytut/lesson1.py)
+For a two-variable problem with two constraints, see [lesson1.py](src/cvxpytut/lesson1.py).
 
 ## Minimize convex and concave functions
 
 ### Second-degree polynomial
 
+For a second-degree polynomial without constraints, see [lesson1.py](src/cvxpytut/lesson2.py).
+
 ### Fourth-degree polynomial
+
+For a fourth-degree polynomial without constraints, see [lesson1.py](src/cvxpytut/lesson3.py).
 
 Even though the package name "cvxpy" implies convex problems, it can also find the
 minimum of concave functions like this fourth-degree polynomial:
