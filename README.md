@@ -13,6 +13,8 @@ See [lesson1.py](src/cvxpytut/lesson1.py)
 Even though the package name "cvxpy" implies convex problems, it can also find the
 minimum of concave functions like this fourth-degree polynomial:
 
-<img src="https://render.githubusercontent.com/render/math?math=f(x) = 4x^4 + 8x^3 + x^2 - 4x - 2">
+```
+f(x) = 4x^4 + 8x^3 + x^2 - 4x - 2
+```
 
 ![f(x) = 4x^(4) + 8x^(3) + x^(2) - 4x - 2](./problem3.png)
