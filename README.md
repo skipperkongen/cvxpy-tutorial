@@ -10,6 +10,13 @@ For a two-variable problem with two constraints, see [lesson1.py](src/cvxpytut/l
 
 For a second-degree polynomial without constraints, see [lesson2.py](src/cvxpytut/lesson2.py).
 
+```
+f(x)= 2x^2 - 4x - 2
+```
+
+![](./problem2.png)
+
+
 ### Fourth-degree polynomial
 
 For a fourth-degree polynomial without constraints, see [lesson3.py](src/cvxpytut/lesson3.py).
@@ -21,4 +28,4 @@ minimum of concave functions like this fourth-degree polynomial:
 f(x) = 4x^4 + 8x^3 + x^2 - 4x - 2
 ```
 
-![f(x) = 4x^(4) + 8x^(3) + x^(2) - 4x - 2](./problem3.png)
+![](./problem3.png)
