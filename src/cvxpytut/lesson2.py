@@ -1,3 +1,4 @@
+# f(x)=2 x^(2) - 4x -2
 # f(x)=4 x^(4)+8 x^(3)+x^(2)-4 x-2
 import cvxpy as cp
 

@@ -1,5 +1,7 @@
 # CvxPy tutorial
 
+> https://youtu.be/kXqu-TqEl7Q
+
 ## Linear programming
 
 For a two-variable problem with two constraints, see [lesson1.py](src/cvxpytut/lesson1.py).
